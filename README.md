@@ -1,6 +1,6 @@
 # Sci-Fi Asset Pack: Drone & Tech Block for PvP Zones
 
-![Project Preview](https://github.com/RgAnna/sci-fi-asset/blob/main/Asset_Sci-Fi.png)
+![Project Preview] (https://github.com/RgAnna/sci-fi-asset/blob/main/Asset_Sci-Fi.png)
 
 
 ### Drone (Reconnaissance & Support)
