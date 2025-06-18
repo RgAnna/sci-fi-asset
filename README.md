@@ -32,7 +32,7 @@
 - [Miro Board (Concepts & Logic)](https://miro.com/app/board/uXjVN8GCWcM=/)
 - [Asset Downloads (Yandex.Disk)](https://disk.yandex.com/example_link)
 
-#############################################################################
+
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -42,11 +42,8 @@
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-#############################################################################
 
-
-
----
+----------------------------------------------------------------------
 
 # Sci-Fi Asset Pack: Дрон и Технический Блок для PvP
 
@@ -81,7 +78,7 @@
 - [Miro (Концепты и Логика)](https://miro.com/app/board/uXjVN8GCWcM=/)
 - [Загрузка ассетов (Yandex.Disk)](https://disk.yandex.ru/d/FRJ8psvawllqrA)
 
-#############################################################################
+
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -91,4 +88,4 @@
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-#############################################################################
+
